@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bmi_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# BMI-APP-Flutter-
+>>>>>>> 6c9786aae4f3cc14e7f8205ebb474204ad66ed6b
