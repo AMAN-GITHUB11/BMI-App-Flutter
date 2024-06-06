@@ -70,6 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
   var wtController = TextEditingController();
   var ftController = TextEditingController();
   var inController = TextEditingController();
+  
   var bgcolor = Colors.indigo.shade400;
 
   var result = '';
